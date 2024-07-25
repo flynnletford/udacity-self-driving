@@ -1,0 +1,3 @@
+[submodule "sensor-fusion/nd013-c2-fusion-exercises"]
+	path = sensor-fusion/nd013-c2-fusion-exercises
+	url = https://github.com/udacity/nd013-c2-fusion-exercises.git
